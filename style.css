@@ -1,0 +1,5 @@
+.active {
+  font-weight: bold;
+  color: rgba(31, 41, 55);
+  border: 1px solid rgba(31, 41, 55);
+}
